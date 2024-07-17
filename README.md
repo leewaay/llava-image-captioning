@@ -9,7 +9,7 @@ LLaVA 멀티모달 기반 Image Captioning
 - 아래 커맨드를 통해 패키지를 설치하실 수 있습니다.
 
 ```console
-git clone http://1.225.38.51:9000/solution/toy/llava-image-captioning.git
+git clone https://github.com/leewaay/llava-image-captioning.git
 cd llava-image-captioning
 
 # Install LLaVA
