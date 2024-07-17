@@ -1,0 +1,1 @@
+from services.llava_image_captioning import llavaImageCaptioning
